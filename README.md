@@ -26,7 +26,7 @@ Motivation The chosen stack was based on the experience and technical knowledge 
 
 <h3>How to install the project:</h3>
 
-*Xampp or another localserver is required, for information about how to install xampp click here*
+*Xampp or another localserver is required, for information about how to install xampp <a href="https://github.com/PerchCMS/Solutions/blob/master/development/installing-a-local-server-with-xampp.md">click here*</a>
 
 1 - Afer installation and configuration from xampp,make a download/clone of the project
 
