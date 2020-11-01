@@ -25,7 +25,8 @@ Front End: Css,Bootstrap,Javascript and Ajax.
 Motivation The chosen stack was based on the experience and technical knowledge as well simplicity.
 
 <h3>How to install the project:</h3>
-Xampp or another localserver is required, for information about how to install xampp click here
+
+*Xampp or another localserver is required, for information about how to install xampp click here*
 
 1 - Afer installation and configuration from xampp,make a download/clone of the project
 
