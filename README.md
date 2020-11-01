@@ -18,7 +18,9 @@
 
 <h3>About the system:</h3>
 
-Stacks Back End: PHP (no Frameworks) and MySQL. Front End: Css,Bootstrap,Javascript and Ajax.
+Stacks Back End: PHP (no Frameworks) and MySQL. 
+
+Front End: Css,Bootstrap,Javascript and Ajax.
 
 Motivation The chosen stack was based on the experience and technical knowledge as well simplicity.
 
