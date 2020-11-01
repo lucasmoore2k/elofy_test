@@ -18,17 +18,17 @@
 
 <h3>About the system:</h3>
 
-<h6>Stacks </h6>
+<h5>Stacks </h5>
 
 Back End: PHP (no Frameworks) and MySQL. 
 
 Front End: Css,Bootstrap,Javascript and Ajax.
 
-<h6>Motivation </h6>
+<h5>Motivation </h5>
 
 The chosen stack was based on the experience and technical knowledge as well simplicity.
 
-<h6>Requirements</h6>
+<h5>Requirements</h5>
 PHP 7+
 
 <h3>How to install the project:</h3>
