@@ -28,6 +28,9 @@ Front End: Css,Bootstrap,Javascript and Ajax.
 
 The chosen stack was based on the experience and technical knowledge as well simplicity.
 
+<p>Requirements</p>
+PHP 7+
+
 <h3>How to install the project:</h3>
 
 *Xampp or another localserver is required, for information about how to install xampp <a href="https://gist.github.com/peterhurford/8602d9fb334baa71d983">click here*</a>
