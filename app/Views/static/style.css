@@ -1,0 +1,60 @@
+
+#button{
+	border: 1px solid red;
+}
+
+
+.table_user{
+	border: 1px solid #E6E6FA;
+}
+
+.table_head{
+	border-bottom: 1px solid #4B0082 outset;
+	background-color: #E6E6FA;
+	font-size: 15px;
+	font-family: Trebuchet MS;
+	color:#4B0082;
+	font-weight: lighter;
+	height: 50px;
+}
+
+
+.form-control-sm{
+	width: 200px;
+}
+
+.div0{
+	width:100vh;
+	height: 100vh;
+}
+
+.div1{
+	width:100vh;
+	height: 80vh;
+}
+
+.div2{
+	border-radius: 50%;
+}
+
+
+.div0_1{
+	width:100vh;
+	height: 20vh;
+}
+
+.div1_1{
+	width:100vh;
+	height: 20vh;
+}
+
+
+.table_head_1{
+	border-bottom: 1px solid #4B0082 outset;
+	background-color: #E6E6FA;
+	font-size: 15px;
+	font-family: Trebuchet MS;
+	color:#4B0082;
+	font-weight: lighter;
+	height: 30px;
+}
